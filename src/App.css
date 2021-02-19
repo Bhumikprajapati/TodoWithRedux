@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.title{
+  font-size: 35px;
+  font-family: monospace;
+  font-weight: bolder;
+ background-color: lightgreen;
+ 
+}
+.inputs{
+margin: 10px;
+
+}
+.button:hover{
+background-color: lightblue;
+}

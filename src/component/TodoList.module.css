@@ -1,0 +1,50 @@
+
+.outstyle{
+    font-size:25px;
+    font-weight: bold;
+     font-family: monospace;
+  
+ }
+ p{
+    
+    display: inline-block;
+ }
+ 
+ .inner{
+    display: inline-block;
+   content: inherit;
+   border: 2px solid green;
+   background-color: lightgreen;
+ width: 400px;
+ height: 70px;
+ 
+ }
+ 
+ .edit{
+  margin: 5px;
+ padding: 5px;
+ border: 2px solid gray;
+ 
+ }
+ .delete{
+ 
+  margin:5px;
+ padding: 5px;
+ border: 2px solid gray;
+ }
+ .toline{
+    text-decoration: line-through;
+    color: gray;
+ }
+ .newedit{
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid red;
+    color: lightgray;
+ }
+ .newdelete{
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid red;
+    color: lightgray;
+ }
